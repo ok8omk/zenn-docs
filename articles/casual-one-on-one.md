@@ -95,4 +95,4 @@ published: false
 2021 年は多くのチームがリモート下でのコミュニケーションを試行錯誤したのではないでしょうか。
 皆さんのチームでもなにか取り組みがあればコメント欄で教えてもらえると嬉しいです。
 
-明日は{nextUser}さんの{nextTitle}です。お楽しみに。
+明日は [@nobuhide-saito](https://qiita.com/nobuhide-saito) さんの「Google Drive 上の索引を作ろう」です。お楽しみに！
